@@ -28,7 +28,6 @@
 <html lang="en">
 
     
-</head>
 
 <body>
 
