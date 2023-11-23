@@ -35,7 +35,6 @@
 
 <body>
 
-    <!-- Paragraph with different color -->
     <p style="color: blue;"><h2>Zebras</h2>
             <p>Zebras are fascinating animals known for their distinctive black and white striped coat. They belong to the horse family and are native to various parts of Africa. Zebras are social animals and are often found in groups, known as dazzles, for protection against predators.</p>
             <p>There are three main species of zebras: the plains zebra, the Grevy's zebra, and the mountain zebra. Each species has its unique characteristics, but they all share the iconic black and white stripes that make them easily recognizable.</p>
