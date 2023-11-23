@@ -23,7 +23,7 @@
         <!-- Home Page -->
         <section id="home">
             <h2>Zebras</h2>
-            <img src="zebra1.jpg" alt="Zebra Image">
+           
             <p>Zebras are fascinating animals known for their distinctive black and white striped coat. They belong to the horse family and are native to various parts of Africa. Zebras are social animals and are often found in groups, known as dazzles, for protection against predators.</p>
             <p>There are three main species of zebras: the plains zebra, the Grevy's zebra, and the mountain zebra. Each species has its unique characteristics, but they all share the iconic black and white stripes that make them easily recognizable.</p>
             <p>Zebras are herbivores and primarily graze on grass. Their stripes are believed to serve as a form of camouflage, helping them blend into their grassland habitats and providing protection from predators.</p>
@@ -65,7 +65,7 @@
         <!-- Habitat Page -->
         <section id="habitat">
             <h2>Habitat</h2>
-            <img src="zebra2.jpg" alt="Zebra Habitat Image">
+            
             <p>Zebras inhabit various types of ecosystems, from savannas and grasslands to woodlands and coastal hills. They are well-adapted to different environments and can be found in both hot and cold climates. Zebras often migrate in search of food and water, covering long distances during their annual migrations.</p>
             <p>These animals have a keen sense of hearing and sight, which helps them detect predators early. They form strong social bonds within their groups and rely on communal defense strategies to ward off threats from predators like lions and hyenas.</p>
             <p>Conservation efforts are crucial to protecting zebra habitats and ensuring the survival of these unique and beautiful creatures in the wild.</p>
