@@ -10,7 +10,7 @@
 </head>
 <link rel="stylesheet" href="styles.css">
  <p style="color: red;">
-<body style="background-color: #FFC0CB; color: #333;">
+<body style="background-color: #FFC0CB; color: #FFFFFF;">
 
     <!-- Navigation Bar -->
     <nav style="background-color: #333; color: #fff;">
