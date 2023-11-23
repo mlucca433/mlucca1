@@ -81,3 +81,45 @@
 </body>
 
 </html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zebras Website - Conservation</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="habitat.html">Habitat</a>
+        <a href="conservation.html">Conservation</a>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main>
+
+        <!-- Conservation Page -->
+        <section id="conservation">
+            <h2>Conservation</h2>
+            <img src="zebra3.jpg" alt="Zebra Conservation Image">
+            <p>Zebras, like many other wildlife species, face threats to their survival due to habitat loss, poaching, and climate change. Conservation organizations work tirelessly to protect and preserve zebra populations by implementing measures to safeguard their natural habitats and prevent illegal hunting.</p>
+            <p>Education and awareness campaigns are also essential in promoting the conservation of zebras and their ecosystems. Supporting wildlife reserves and sanctuaries that focus on zebra conservation is one way individuals can contribute to the protection of these magnificent animals.</p>
+            <p>By working together, we can ensure a future where zebras continue to roam freely in the wild, contributing to the rich biodiversity of our planet.</p>
+        </section>
+
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Zebras Conservation Society. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
