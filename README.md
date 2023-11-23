@@ -75,6 +75,8 @@
             <p>Zebras inhabit various types of ecosystems, from savannas and grasslands to woodlands and coastal hills. They are well-adapted to different environments and can be found in both hot and cold climates. Zebras often migrate in search of food and water, covering long distances during their annual migrations.</p>
             <p>These animals have a keen sense of hearing and sight, which helps them detect predators early. They form strong social bonds within their groups and rely on communal defense strategies to ward off threats from predators like lions and hyenas.</p>
             <p>Conservation efforts are crucial to protecting zebra habitats and ensuring the survival of these unique and beautiful creatures in the wild.</p>
+    
+            <img src="zebra2.jpg">
         </section>
 
     </main>
