@@ -1,12 +1,81 @@
 <html lang="en">
 
 <head>
+    /* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a box-sizing border-box model to all elements */
+* {
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navigation bar styling */
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Main content styling */
+main {
+    margin-top: 20px;
+}
+
+/* Section heading styling */
+h2 {
+    color: #008080;
+}
+
+/* Paragraph styling */
+p {
+    line-height: 1.6;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Responsive image styling */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Responsive iframe styling */
+iframe {
+    width: 100%;
+    height: 400px;
+    border: 0;
+}
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zebras Website - Home</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
 </head>
+<link rel="stylesheet" href="styles.css">
 
 <body style="background-color: #FFC0CB; color: #333;">
 
@@ -43,6 +112,8 @@
 <html lang="en">
 
 <head>
+    <link rel="stylesheet" href="styles.css">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zebras Website - Habitat</title>
@@ -85,6 +156,8 @@
 <html lang="en">
 
 <head>
+    <link rel="stylesheet" href="styles.css">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zebras Website - Conservation</title>
