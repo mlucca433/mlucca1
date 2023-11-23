@@ -33,7 +33,7 @@
 
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2023 Zebras Conservation Society. All rights reserved.</p>
+        
     </footer>
 
 </body>
@@ -75,7 +75,7 @@
 
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2023 Zebras Conservation Society. All rights reserved.</p>
+        
     </footer>
 
 </body>
@@ -117,7 +117,7 @@
 
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2023 Zebras Conservation Society. All rights reserved.</p>
+        
     </footer>
 
 </body>
