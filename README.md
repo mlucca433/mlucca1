@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
 </head>
 
-<body style="background-color: #fafafa; color: #333;">
+<body style="background-color: #FFC0CB; color: #333;">
 
     <!-- Navigation Bar -->
     <nav style="background-color: #333; color: #fff;">
@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
 </head>
 
-<body style="background-color: #fafafa; color: #333;">
+<body style="background-color: #FFC0CB; color: #333;">
 
     <!-- Navigation Bar -->
     <nav style="background-color: #333; color: #fff;">
@@ -92,7 +92,7 @@
     <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
 </head>
 
-<body style="background-color: #fafafa; color: #333;">
+<body style="background-color: #FFC0CB; color: #333;">
 
     <!-- Navigation Bar -->
     <nav style="background-color: #333; color: #fff;">
