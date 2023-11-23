@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
 </head>
 
-<body>
+<body style="background-color: #fafafa; color: #333;">
 
     <!-- Navigation Bar -->
-    <nav>
+    <nav style="background-color: #333; color: #fff;">
         <a href="index.html">Home</a>
         <a href="habitat.html">Habitat</a>
         <a href="conservation.html">Conservation</a>
@@ -32,92 +32,8 @@
     </main>
 
     <!-- Footer Section -->
-    <footer>
-        
-    </footer>
-
-</body>
-
-</html>
-
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zebras Website - Habitat</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
-</head>
-
-<body>
-
-    <!-- Navigation Bar -->
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="habitat.html">Habitat</a>
-        <a href="conservation.html">Conservation</a>
-    </nav>
-
-    <!-- Main Content Area -->
-    <main>
-
-        <!-- Habitat Page -->
-        <section id="habitat">
-            <h2>Habitat</h2>
-            <img src="zebra2.jpg" alt="Zebra Habitat Image">
-            <p>Zebras inhabit various types of ecosystems, from savannas and grasslands to woodlands and coastal hills. They are well-adapted to different environments and can be found in both hot and cold climates. Zebras often migrate in search of food and water, covering long distances during their annual migrations.</p>
-            <p>These animals have a keen sense of hearing and sight, which helps them detect predators early. They form strong social bonds within their groups and rely on communal defense strategies to ward off threats from predators like lions and hyenas.</p>
-            <p>Conservation efforts are crucial to protecting zebra habitats and ensuring the survival of these unique and beautiful creatures in the wild.</p>
-        </section>
-
-    </main>
-
-    <!-- Footer Section -->
-    <footer>
-        
-    </footer>
-
-</body>
-
-</html>
-
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zebras Website - Conservation</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
-</head>
-
-<body>
-
-    <!-- Navigation Bar -->
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="habitat.html">Habitat</a>
-        <a href="conservation.html">Conservation</a>
-    </nav>
-
-    <!-- Main Content Area -->
-    <main>
-
-        <!-- Conservation Page -->
-        <section id="conservation">
-            <h2>Conservation</h2>
-            <img src="zebra3.jpg" alt="Zebra Conservation Image">
-            <p>Zebras, like many other wildlife species, face threats to their survival due to habitat loss, poaching, and climate change. Conservation organizations work tirelessly to protect and preserve zebra populations by implementing measures to safeguard their natural habitats and prevent illegal hunting.</p>
-            <p>Education and awareness campaigns are also essential in promoting the conservation of zebras and their ecosystems. Supporting wildlife reserves and sanctuaries that focus on zebra conservation is one way individuals can contribute to the protection of these magnificent animals.</p>
-            <p>By working together, we can ensure a future where zebras continue to roam freely in the wild, contributing to the rich biodiversity of our planet.</p>
-        </section>
-
-    </main>
-
-    <!-- Footer Section -->
-    <footer>
-        
+    <footer style="background-color: #333; color: #fff;">
+        <p>&copy; 2023 Zebras Conservation Society. All rights reserved.</p>
     </footer>
 
 </body>
