@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="styles.css"> <!-- Add your local stylesheet for custom styles -->
 </head>
 <link rel="stylesheet" href="styles.css">
- <p style="color: red;">This text is red.</p>
+ <p style="color: red;">
 <body style="background-color: #FFC0CB; color: #333;">
 
     <!-- Navigation Bar -->
