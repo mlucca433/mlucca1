@@ -24,7 +24,7 @@
 
         <!-- Home Page -->
         <section id="home">
-        <!DOCTYPE html>
+       
 <html lang="en">
 
     
