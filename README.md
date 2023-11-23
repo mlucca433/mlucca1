@@ -24,10 +24,28 @@
 
         <!-- Home Page -->
         <section id="home">
-            <h2>Zebras</h2>
+        <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colored Paragraph Example</title>
+</head>
+
+<body>
+
+    <!-- Paragraph with different color -->
+    <p style="color: blue;"><h2>Zebras</h2>
             <p>Zebras are fascinating animals known for their distinctive black and white striped coat. They belong to the horse family and are native to various parts of Africa. Zebras are social animals and are often found in groups, known as dazzles, for protection against predators.</p>
             <p>There are three main species of zebras: the plains zebra, the Grevy's zebra, and the mountain zebra. Each species has its unique characteristics, but they all share the iconic black and white stripes that make them easily recognizable.</p>
-            <p>Zebras are herbivores and primarily graze on grass. Their stripes are believed to serve as a form of camouflage, helping them blend into their grassland habitats and providing protection from predators.</p>
+            <p>Zebras are herbivores and primarily graze on grass. Their stripes are believed to serve as a form of camouflage, helping them blend into their grassland habitats and providing protection from predators.</p>.</p>
+
+</body>
+
+</html>
+
+            
 
             <img src="zebra1.jpg">
 
